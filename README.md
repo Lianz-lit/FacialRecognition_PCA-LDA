@@ -1,11 +1,11 @@
 # FacialRecognition_PCA-LDA
 ## 数据库
 ORL人脸库（英国）：剑桥大学，40人，每人10张照片，包括表情变化，微小姿态变化，20%以内的尺度变化。
-可以直接使用本项目中的orl_face或从下方链接下载
-下载链接：https://www.kaggle.com/datasets/kasikrit/att-database-of-faces
+
+可以直接使用本项目中的orl_face或从链接https://www.kaggle.com/datasets/kasikrit/att-database-of-faces 下载
 
 
-关于ORL face database：
+**Notes**：
 
 This directory contains a set of faces taken between April 1992 and April 1994 at the Olivetti Research Laboratory in Cambridge, UK.
 
