@@ -1,4 +1,4 @@
-# FacialRecognition_PCA-LDA
+# FacialRecognition_PCA&LDA
 ## 数据库
 ORL人脸库（英国）：剑桥大学，40人，每人10张照片，包括表情变化，微小姿态变化，20%以内的尺度变化。
 
